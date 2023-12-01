@@ -1,1 +1,16 @@
-
+{"fields":
+  {"1": "Bug ID",
+    "2": "Summary",
+    "3": "Incident description",
+    "4": "Steps",
+    "5": "Actual result",
+    "6": "Expected resuilt",
+    "7": "Envinroment",
+    "8": "Severity",
+    "9": "Priority",
+    "10": "Reported by",
+    "11": "reported on",
+    "12": "Status"
+  }
+  
+}
